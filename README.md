@@ -1,5 +1,5 @@
 # UPL_Psflw_3D_SlopeA
-Python: Ultimate Pit Limit solved by Pseudoflow algorithm. With slope angle asociated to each block
+Python: Ultimate Pit Limit solved by Pseudoflow algorithm. With slope angle associated to each block
 
 Code based on S. Ávalos work: https://github.com/geometatqueens/2020-Pseudoflow-Python .
 The improvement is to add variable slope angle precedences from block model specification.
